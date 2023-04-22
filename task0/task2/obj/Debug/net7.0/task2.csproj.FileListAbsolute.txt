@@ -1,0 +1,15 @@
+E:\GeekB\C#1\task0\task2\bin\Debug\net7.0\task2.exe
+E:\GeekB\C#1\task0\task2\bin\Debug\net7.0\task2.deps.json
+E:\GeekB\C#1\task0\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+E:\GeekB\C#1\task0\task2\bin\Debug\net7.0\task2.dll
+E:\GeekB\C#1\task0\task2\bin\Debug\net7.0\task2.pdb
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.dll
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\refint\task2.dll
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.pdb
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+E:\GeekB\C#1\task0\task2\obj\Debug\net7.0\ref\task2.dll
